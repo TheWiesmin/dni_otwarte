@@ -75,4 +75,4 @@ def random_string():
 
 
 client = MyClient()
-client.run('NzE4MTUzNTMzNjg5NjkyMzMz.XtqXZA.DmfMI3EHhQOhJE4PU5y1Ndf8etg')
+client.run('TOKEN')
